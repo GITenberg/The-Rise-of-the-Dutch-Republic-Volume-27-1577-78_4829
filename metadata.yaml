@@ -1,5 +1,5 @@
 _repo: The-Rise-of-the-Dutch-Republic-Volume-27-1577-78_4829
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Netherlands -- Church history'
 - !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648'
 - !lcc 'DH'
+- GITenberg
 title: 'The Rise of the Dutch Republic — Volume 27: 1577-78'
 url: http://www.gutenberg.org/ebooks/4829
